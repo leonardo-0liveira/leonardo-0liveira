@@ -6,14 +6,14 @@ Estou construindo minha base técnica para me tornar um desenvolvedor completo, 
 
 ### 🛠️ No que estou focado agora:
 - 🔭 Estudo intenso de Lógica de Programação e Algoritmos.
-- 🐍 Aprimorando conhecimentos em [Linguagem Principal, ex: Python/Java].
+- 🐍 Aprimorando conhecimentos em Python/Java.
 - 🔧 Aprendendo boas práticas de versionamento com Git.
 
 ### 🧠 Uso de IA no Desenvolvimento:
 Utilizo a IA como um copiloto para acelerar meu aprendizado, entender erros e explorar diferentes abordagens de solução de problemas, sempre prezando por entender a lógica por trás de cada linha de código.
 
 ### 📫 Como me encontrar:
-- [LinkedIn](Lhttps://www.linkedin.com/in/leonardo-lima-3705a4266?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [LinkedIn](https://www.linkedin.com/in/leonardo-lima-3705a4266?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - [Seu E-mail](mailto:leonardolimadeoliveira4@gmail.com)
 
 ---
