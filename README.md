@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo! 👋
 
-<!--
-**leonardo-0liveira/leonardo-0liveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do 1º semestre de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, automação e as infinitas possibilidades da Inteligência Artificial.
 
-Here are some ideas to get you started:
+Estou construindo minha base técnica para me tornar um desenvolvedor completo, focado em escrever código limpo e eficiente. Acredito muito no poder do trabalho em equipe e na troca de conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ No que estou focado agora:
+- 🔭 Estudo intenso de Lógica de Programação e Algoritmos.
+- 🐍 Aprimorando conhecimentos em [Linguagem Principal, ex: Python/Java].
+- 🔧 Aprendendo boas práticas de versionamento com Git.
+
+### 🧠 Uso de IA no Desenvolvimento:
+Utilizo a IA como um copiloto para acelerar meu aprendizado, entender erros e explorar diferentes abordagens de solução de problemas, sempre prezando por entender a lógica por trás de cada linha de código.
+
+### 📫 Como me encontrar:
+- [LinkedIn](Lhttps://www.linkedin.com/in/leonardo-lima-3705a4266?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- [Seu E-mail](mailto:leonardolimadeoliveira4@gmail.com)
+
+---
+⭐️ Do meu perfil do GitHub
